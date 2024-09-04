@@ -8,7 +8,7 @@
 <body>
     <script>
 let nombre, edad, direccion, telefono, email; 
-nombre = prompt("INGRESE SU NOMBRE....");
+nombre = prompt("INGRESE SU NOMBRe....");
 edad = prompt ("Ingrese su edad...");
 direccion = prompt ("Ingrese su direccion...");
 telefono = prompt ("Ingrese su telefono...")
